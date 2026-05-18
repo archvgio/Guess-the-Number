@@ -9,4 +9,4 @@ A simple Python guessing game.
 
 ## How to Run
 ```bash
-python game.py
+Guessing_Game.py
